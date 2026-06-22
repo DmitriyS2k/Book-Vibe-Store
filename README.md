@@ -1,7 +1,7 @@
 # 📚 Book & Vibe Store
 
 Modern online bookstore built with React, TypeScript, and Supabase.
-[DEMO DEPLOY LINK](https:///)
+[DEMO DEPLOY LINK](https://https://dmitriys2k.github.io/Book-Vibe-Store/)
 
 ## Overview
 
